@@ -1,15 +1,8 @@
 # Car
-Here's a README file for your GitHub repository:
-
----
-
 # Online Car Dealership System
 
 ### Team Nacros
 * **Team Members:** Anmol Kankarwal, Ritwick Srivastava, Happy Singh, Manas Dubey
-
----
-
 ## Project Overview
 
 The **Online Car Dealership System** is a user-centric platform designed to streamline the car buying and selling process, providing a more efficient and transparent alternative to traditional dealerships. Our solution offers an intuitive interface, real-time inventory, and comprehensive vehicle information to enhance user trust and convenience.
